@@ -3612,7 +3612,7 @@
 },
 {
 "label": "Play house 6 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 -490.0,
 242.5,
@@ -3629,9 +3629,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -6073,7 +6072,7 @@
 },
 {
 "label": "Play house 11 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 -490.0,
 -1362.5,
@@ -6090,9 +6089,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -7179,7 +7177,7 @@
 },
 {
 "label": "Play house 13 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 -490.0,
 -2382.5,
@@ -7196,9 +7194,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -7294,7 +7291,7 @@
 },
 {
 "label": "Play house 13 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 -490.0,
 -2382.5,
@@ -7311,9 +7308,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -10398,7 +10394,7 @@
 },
 {
 "label": "Play house 19 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 -490.0,
 -4632.5,
@@ -10415,9 +10411,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -10907,7 +10902,7 @@
 },
 {
 "label": "Play house 20 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 -490.0,
 -4737.5,
@@ -10924,9 +10919,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -11560,7 +11554,7 @@
 },
 {
 "label": "Play house 21 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 -490.0,
 -5112.5,
@@ -11577,9 +11571,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -12381,7 +12374,7 @@
 },
 {
 "label": "Play house 23 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 -490.0,
 -6132.5,
@@ -12398,9 +12391,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -14055,7 +14047,7 @@
 },
 {
 "label": "Play house 26 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 -490.0,
 -7257.5,
@@ -14072,9 +14064,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -15703,7 +15694,7 @@
 },
 {
 "label": "Play house 29 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 490.0,
 2387.5,
@@ -15720,9 +15711,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -16922,7 +16912,7 @@
 },
 {
 "label": "Play house 31 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 490.0,
 1367.5,
@@ -16939,9 +16929,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -17037,7 +17026,7 @@
 },
 {
 "label": "Play house 31 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 490.0,
 1367.5,
@@ -17054,9 +17043,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -18287,7 +18275,7 @@
 },
 {
 "label": "Play house 33 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 490.0,
 617.5,
@@ -18304,9 +18292,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -18769,7 +18756,7 @@
 },
 {
 "label": "Play house 34 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 490.0,
 512.5,
@@ -18786,9 +18773,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -21173,7 +21159,7 @@
 },
 {
 "label": "Play house 39 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 490.0,
 -1362.5,
@@ -21190,9 +21176,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -21600,7 +21585,7 @@
 },
 {
 "label": "Play house 40 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 490.0,
 -2007.5,
@@ -21617,9 +21602,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -21715,7 +21699,7 @@
 },
 {
 "label": "Play house 40 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 490.0,
 -1737.5,
@@ -21732,9 +21716,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -22193,7 +22176,7 @@
 },
 {
 "label": "Play house 41 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 490.0,
 -2382.5,
@@ -22210,9 +22193,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -22675,7 +22657,7 @@
 },
 {
 "label": "Play house 42 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 490.0,
 -2487.5,
@@ -22692,9 +22674,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -24031,7 +24012,7 @@
 },
 {
 "label": "Play house 45 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 490.0,
 -3612.5,
@@ -24048,9 +24029,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -24146,7 +24126,7 @@
 },
 {
 "label": "Play house 45 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 490.0,
 -3612.5,
@@ -24163,9 +24143,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -25874,7 +25853,7 @@
 },
 {
 "label": "Play house 48 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 490.0,
 -5007.5,
@@ -25891,9 +25870,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -27154,7 +27132,7 @@
 },
 {
 "label": "Play house 51 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 490.0,
 -6132.5,
@@ -27171,9 +27149,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -27608,7 +27585,7 @@
 },
 {
 "label": "Play house 52 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 490.0,
 -6507.5,
@@ -27625,9 +27602,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -28034,7 +28010,7 @@
 },
 {
 "label": "Play house 53 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 490.0,
 -8007.5,
@@ -28051,9 +28027,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -29391,7 +29366,7 @@
 },
 {
 "label": "Play house 55 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 1177.5,
 -7350.0,
@@ -29408,9 +29383,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -29874,7 +29848,7 @@
 },
 {
 "label": "Play house 56 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 1552.5,
 -7350.0,
@@ -29891,9 +29865,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -32277,7 +32250,7 @@
 },
 {
 "label": "Play house 60 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 4177.5,
 -7350.0,
@@ -32294,9 +32267,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -32759,7 +32731,7 @@
 },
 {
 "label": "Play house 61 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 4822.5,
 -7350.0,
@@ -32776,9 +32748,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -33071,7 +33042,7 @@
 },
 {
 "label": "Play house 62 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 5197.5,
 -7350.0,
@@ -33088,9 +33059,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -33439,7 +33409,7 @@
 },
 {
 "label": "Play house 63 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 5947.5,
 -7350.0,
@@ -33456,9 +33426,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -34515,7 +34484,7 @@
 },
 {
 "label": "Play house 65 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 6427.5,
 -7350.0,
@@ -34532,9 +34501,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -36190,7 +36158,7 @@
 },
 {
 "label": "Play house 68 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 7552.5,
 -7350.0,
@@ -36207,9 +36175,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -39424,7 +39391,7 @@
 },
 {
 "label": "Play house 74 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 10072.5,
 -7350.0,
@@ -39441,9 +39408,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -39826,7 +39792,7 @@
 },
 {
 "label": "Play house 75 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 1072.5,
 -6650.0,
@@ -39843,9 +39809,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -42918,7 +42883,7 @@
 },
 {
 "label": "Play house 81 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 4072.5,
 -6650.0,
@@ -42935,9 +42900,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -43888,7 +43852,7 @@
 },
 {
 "label": "Play house 83 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 4552.5,
 -6650.0,
@@ -43905,9 +43869,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -44599,7 +44562,7 @@
 },
 {
 "label": "Play house 84 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 5197.5,
 -6650.0,
@@ -44616,9 +44579,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -47411,7 +47373,7 @@
 },
 {
 "label": "Play house 89 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 7177.5,
 -6650.0,
@@ -47428,9 +47390,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -48493,7 +48454,7 @@
 },
 {
 "label": "Play house 91 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 7927.5,
 -6650.0,
@@ -48510,9 +48471,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -49338,7 +49298,7 @@
 },
 {
 "label": "Play house 93 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 9697.5,
 -6650.0,
@@ -49355,9 +49315,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -49538,7 +49497,7 @@
 },
 {
 "label": "Play house 93 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 9427.5,
 -6650.0,
@@ -49555,9 +49514,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -50022,7 +49980,7 @@
 },
 {
 "label": "Play house 94 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 9802.5,
 -6650.0,
@@ -50039,9 +49997,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -50137,7 +50094,7 @@
 },
 {
 "label": "Play house 94 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 9802.5,
 -6650.0,
@@ -50154,9 +50111,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -51320,7 +51276,7 @@
 },
 {
 "label": "Play house 96 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 3350.0,
 -9302.5,
@@ -51337,9 +51293,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -52589,7 +52544,7 @@
 },
 {
 "label": "Play house 99 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 3350.0,
 -8447.5,
@@ -52606,9 +52561,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -52704,7 +52658,7 @@
 },
 {
 "label": "Play house 99 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 3350.0,
 -8177.5,
@@ -52721,9 +52675,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -53553,7 +53506,7 @@
 },
 {
 "label": "Play house 101 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 2650.0,
 -9947.5,
@@ -53570,9 +53523,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -54370,7 +54322,7 @@
 },
 {
 "label": "Play house 103 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 2650.0,
 -8927.5,
@@ -54387,9 +54339,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -56497,7 +56448,7 @@
 },
 {
 "label": "Play house 107 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 3350.0,
 -5927.5,
@@ -56514,9 +56465,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -58878,7 +58828,7 @@
 },
 {
 "label": "Play house 112 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 2650.0,
 -6197.5,
@@ -58895,9 +58845,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -60292,7 +60241,7 @@
 },
 {
 "label": "Play house 115 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 2650.0,
 -5072.5,
@@ -60309,9 +60258,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -61908,7 +61856,7 @@
 },
 {
 "label": "Play house 118 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 322.5,
 -8490.0,
@@ -61925,9 +61873,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -62671,7 +62618,7 @@
 },
 {
 "label": "Play house 120 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 -52.5,
 1490.0,
@@ -62688,9 +62635,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -63096,7 +63042,7 @@
 },
 {
 "label": "Play house 121 air conditioner 3",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b",
 "loc": [
 10350.0,
 -7052.5,
@@ -63113,9 +63059,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -63322,7 +63267,7 @@
 },
 {
 "label": "Play house 122 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 10350.0,
 -6947.5,
@@ -63339,9 +63284,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -64889,7 +64833,7 @@
 },
 {
 "label": "Play house 126 air conditioner 1",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 2947.5,
 -4150.0,
@@ -64906,9 +64850,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -65004,7 +64947,7 @@
 },
 {
 "label": "Play house 126 air conditioner 2",
-"mesh": "/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b",
 "loc": [
 2677.5,
 -4150.0,
@@ -65021,9 +64964,8 @@
 0.8
 ],
 "mats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "tags": [
 "OriginalSourceMapGenerated",
@@ -79322,6 +79264,99 @@
 "ClaudePlayModeLevel"
 ],
 "castShadow": false
+},
+{
+"label": "Play gate 0 (BC04 A)",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC04_A_v38b.SM_BC04_A_v38b",
+"loc": [
+-460.0,
+-5247.5,
+14.0
+],
+"rot": [
+0.0,
+-90.0,
+0.0
+],
+"scale": [
+1.0,
+1.0,
+1.0
+],
+"mats": [
+"/Game/ClaudeV38_20261008/Sources/BC04_A_v38b/BC04_A_v38b/Materials/large_iron_gate.large_iron_gate",
+"/Game/ClaudeV38_20261008/Sources/BC04_A_v38b/BC04_A_v38b/Materials/BC04_A_plinth.BC04_A_plinth",
+"/Game/ClaudeV38_20261008/Sources/BC04_A_v38b/BC04_A_v38b/Materials/BC04_A_post.BC04_A_post"
+],
+"tags": [
+"OriginalSourceMapGenerated",
+"HanoiVisualOnly",
+"ClaudePlayModeLevel",
+"ClaudeV38bDressing"
+],
+"castShadow": true
+},
+{
+"label": "Play gate 1 (BC04 B)",
+"mesh": "/Game/ClaudeV38_20261008/SM_BC04_B_v38.SM_BC04_B_v38",
+"loc": [
+-187.5,
+-8460.0,
+14.0
+],
+"rot": [
+0.0,
+0.0,
+0.0
+],
+"scale": [
+1.0,
+1.0,
+1.0
+],
+"mats": [
+"/Game/ClaudeV38_20261008/Sources/BC04_B_v38/BC04_B_v38/Materials/large_iron_gate.large_iron_gate",
+"/Game/ClaudeV38_20261008/Sources/BC04_B_v38/BC04_B_v38/Materials/BC04_B_plinth.BC04_B_plinth",
+"/Game/ClaudeV38_20261008/Sources/BC04_B_v38/BC04_B_v38/Materials/BC04_B_post.BC04_B_post",
+"/Game/ClaudeV38_20261008/Sources/BC04_B_v38/BC04_B_v38/Materials/BC04_B_cedar.BC04_B_cedar"
+],
+"tags": [
+"OriginalSourceMapGenerated",
+"HanoiVisualOnly",
+"ClaudePlayModeLevel",
+"ClaudeV38bDressing"
+],
+"castShadow": true
+},
+{
+"label": "Play ladder 0 (P11 A)",
+"mesh": "/Game/ClaudeV38_20261008/SM_P11_A_v38.SM_P11_A_v38",
+"loc": [
+432.524,
+-607.5,
+165.365
+],
+"rot": [
+-0.0,
+90.0,
+-108.0
+],
+"scale": [
+1.0,
+1.0,
+1.0
+],
+"mats": [
+"/Game/ClaudeV38_20261008/Sources/P11_A_v38/P11_A_v38/Materials/P11_A_oak.P11_A_oak",
+"/Game/ClaudeV38_20261008/Sources/P11_A_v38/P11_A_v38/Materials/P11_A_rubber.P11_A_rubber"
+],
+"tags": [
+"OriginalSourceMapGenerated",
+"HanoiVisualOnly",
+"ClaudePlayModeLevel",
+"ClaudeV38bDressing"
+],
+"castShadow": true
 }
 ],
 "meshes": {
@@ -80196,22 +80231,21 @@
 ],
 "exported": true
 },
-"/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor": {
-"file": "meshes/Game_HanoiV3_Assets_ac_unit_outdoor_ac_unit_outdoor.glb",
+"/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b": {
+"file": "meshes/Game_ClaudeV38_20261008_SM_BC08_B_v38b.glb",
 "boundsMin": [
 -32.5,
--0.0,
+0.0,
 0.0
 ],
 "boundsMax": [
 32.5,
-28.0,
-42.0
+30.402,
+49.39
 ],
 "defaultMats": [
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Ivory_linear.StreetV3_Hanoi_Dressing_AC_Ivory_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Fan_linear.StreetV3_Hanoi_Dressing_AC_Fan_linear",
-"/Game/Hanoi/Materials/StreetV3_Hanoi_Dressing_AC_Grille_linear.StreetV3_Hanoi_Dressing_AC_Grille_linear"
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_B_v38b/BC08_B_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
 ],
 "exported": true
 },
@@ -80408,6 +80442,24 @@
 ],
 "exported": true
 },
+"/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b": {
+"file": "meshes/Game_ClaudeV38_20261008_SM_BC08_A_v38b.glb",
+"boundsMin": [
+-32.5,
+0.0,
+0.0
+],
+"boundsMax": [
+32.5,
+30.402,
+49.39
+],
+"defaultMats": [
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_01.exterior_aircon_unit_01",
+"/Game/ClaudeV38_20261008/Sources/BC08_A_v38b/BC08_A_v38b/Materials/exterior_aircon_unit_02.exterior_aircon_unit_02"
+],
+"exported": true
+},
 "/Game/HanoiExpansion/Assets/shop_blade_sign/shop_blade_sign.shop_blade_sign": {
 "file": "meshes/Game_HanoiExpansion_Assets_shop_blade_sign_shop_blade_sign.glb",
 "boundsMin": [
@@ -80459,6 +80511,63 @@
 ],
 "defaultMats": [
 "/Game/ClaudePlay_20260928/FacadeKit/facade_kit_2k/Materials/modular_urban_apartments_facade_objects.modular_urban_apartments_facade_objects"
+],
+"exported": true
+},
+"/Game/ClaudeV38_20261008/SM_BC04_A_v38b.SM_BC04_A_v38b": {
+"file": "meshes/Game_ClaudeV38_20261008_SM_BC04_A_v38b.glb",
+"boundsMin": [
+-137.5,
+-14.0,
+0.0
+],
+"boundsMax": [
+137.5,
+14.0,
+270.0
+],
+"defaultMats": [
+"/Game/ClaudeV38_20261008/Sources/BC04_A_v38b/BC04_A_v38b/Materials/large_iron_gate.large_iron_gate",
+"/Game/ClaudeV38_20261008/Sources/BC04_A_v38b/BC04_A_v38b/Materials/BC04_A_plinth.BC04_A_plinth",
+"/Game/ClaudeV38_20261008/Sources/BC04_A_v38b/BC04_A_v38b/Materials/BC04_A_post.BC04_A_post"
+],
+"exported": true
+},
+"/Game/ClaudeV38_20261008/SM_BC04_B_v38.SM_BC04_B_v38": {
+"file": "meshes/Game_ClaudeV38_20261008_SM_BC04_B_v38.glb",
+"boundsMin": [
+-137.5,
+-14.0,
+0.0
+],
+"boundsMax": [
+137.5,
+14.0,
+270.0
+],
+"defaultMats": [
+"/Game/ClaudeV38_20261008/Sources/BC04_B_v38/BC04_B_v38/Materials/large_iron_gate.large_iron_gate",
+"/Game/ClaudeV38_20261008/Sources/BC04_B_v38/BC04_B_v38/Materials/BC04_B_plinth.BC04_B_plinth",
+"/Game/ClaudeV38_20261008/Sources/BC04_B_v38/BC04_B_v38/Materials/BC04_B_post.BC04_B_post",
+"/Game/ClaudeV38_20261008/Sources/BC04_B_v38/BC04_B_v38/Materials/BC04_B_cedar.BC04_B_cedar"
+],
+"exported": true
+},
+"/Game/ClaudeV38_20261008/SM_P11_A_v38.SM_P11_A_v38": {
+"file": "meshes/Game_ClaudeV38_20261008_SM_P11_A_v38.glb",
+"boundsMin": [
+-22.4,
+-156.75,
+0.0
+],
+"boundsMax": [
+22.4,
+156.75,
+7.4
+],
+"defaultMats": [
+"/Game/ClaudeV38_20261008/Sources/P11_A_v38/P11_A_v38/Materials/P11_A_oak.P11_A_oak",
+"/Game/ClaudeV38_20261008/Sources/P11_A_v38/P11_A_v38/Materials/P11_A_rubber.P11_A_rubber"
 ],
 "exported": true
 }

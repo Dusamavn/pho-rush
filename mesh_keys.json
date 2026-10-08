@@ -42,7 +42,7 @@
 "/Game/ClaudePlay_20260928/FacadeKit/facade_kit_2k/StaticMeshes/door_offset_small_03.door_offset_small_03": "Game_ClaudePlay_20260928_FacadeKit_facade_kit_2k_StaticMeshes_door_offset_small_03",
 "/Game/ClaudePlay_20260928/FacadeKit/facade_kit_2k/StaticMeshes/wall_window_centered_double_01.wall_window_centered_double_01": "Game_ClaudePlay_20260928_FacadeKit_facade_kit_2k_StaticMeshes_wall_window_centered_double_01",
 "/Game/ClaudePlay_20260928/FacadeKit/facade_kit_2k/StaticMeshes/window_centered_double_01.window_centered_double_01": "Game_ClaudePlay_20260928_FacadeKit_facade_kit_2k_StaticMeshes_window_centered_double_01",
-"/Game/HanoiV3/Assets/ac_unit_outdoor/ac_unit_outdoor.ac_unit_outdoor": "Game_HanoiV3_Assets_ac_unit_outdoor_ac_unit_outdoor",
+"/Game/ClaudeV38_20261008/SM_BC08_B_v38b.SM_BC08_B_v38b": "Game_ClaudeV38_20261008_SM_BC08_B_v38b",
 "/Game/ClaudeV34_20260928/SM_G04_A_v34.SM_G04_A_v34": "Game_ClaudeV34_20260928_SM_G04_A_v34",
 "/Game/ClaudeV33_20260927/SM_F02_A_d_v33d.SM_F02_A_d_v33d": "Game_ClaudeV33_20260927_SM_F02_A_d_v33d",
 "/Game/ClaudePlay_20260928/FacadeKit/facade_kit_2k/StaticMeshes/wall_window_centered_large_01.wall_window_centered_large_01": "Game_ClaudePlay_20260928_FacadeKit_facade_kit_2k_StaticMeshes_wall_window_centered_large_01",
@@ -54,7 +54,11 @@
 "/Game/ClaudePlay_20260928/FacadeKit/facade_kit_2k/StaticMeshes/wall_door_window_small_05.wall_door_window_small_05": "Game_ClaudePlay_20260928_FacadeKit_facade_kit_2k_StaticMeshes_wall_door_window_small_05",
 "/Game/ClaudePlay_20260928/FacadeKit/facade_kit_2k/StaticMeshes/door_window_small_05.door_window_small_05": "Game_ClaudePlay_20260928_FacadeKit_facade_kit_2k_StaticMeshes_door_window_small_05",
 "/Game/HanoiExpansion/Assets/shop_flower_sign/shop_flower_sign.shop_flower_sign": "Game_HanoiExpansion_Assets_shop_flower_sign_shop_flower_sign",
+"/Game/ClaudeV38_20261008/SM_BC08_A_v38b.SM_BC08_A_v38b": "Game_ClaudeV38_20261008_SM_BC08_A_v38b",
 "/Game/HanoiExpansion/Assets/shop_blade_sign/shop_blade_sign.shop_blade_sign": "Game_HanoiExpansion_Assets_shop_blade_sign_shop_blade_sign",
 "/Game/ClaudePlay_20260928/FacadeKit/facade_kit_2k/StaticMeshes/wall_door_offset_small_01.wall_door_offset_small_01": "Game_ClaudePlay_20260928_FacadeKit_facade_kit_2k_StaticMeshes_wall_door_offset_small_01",
-"/Game/ClaudePlay_20260928/FacadeKit/facade_kit_2k/StaticMeshes/door_offset_small_01.door_offset_small_01": "Game_ClaudePlay_20260928_FacadeKit_facade_kit_2k_StaticMeshes_door_offset_small_01"
+"/Game/ClaudePlay_20260928/FacadeKit/facade_kit_2k/StaticMeshes/door_offset_small_01.door_offset_small_01": "Game_ClaudePlay_20260928_FacadeKit_facade_kit_2k_StaticMeshes_door_offset_small_01",
+"/Game/ClaudeV38_20261008/SM_BC04_A_v38b.SM_BC04_A_v38b": "Game_ClaudeV38_20261008_SM_BC04_A_v38b",
+"/Game/ClaudeV38_20261008/SM_BC04_B_v38.SM_BC04_B_v38": "Game_ClaudeV38_20261008_SM_BC04_B_v38",
+"/Game/ClaudeV38_20261008/SM_P11_A_v38.SM_P11_A_v38": "Game_ClaudeV38_20261008_SM_P11_A_v38"
 }
