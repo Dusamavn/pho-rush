@@ -1,0 +1,344 @@
+{
+ "schema": "streetsense.map/1",
+ "id": "m04_play_alley",
+ "name": "Phở Rush - Hanoi Alley",
+ "description": "Play-mode remake of M04: a narrow 6.4 m shop street, a right turn into the 3.6 m alley, deliver the phở hot and full. Exploration map, never research data.",
+ "research": false,
+ "conditions": {
+  "timeOfDay": "dusk",
+  "weather": "clear",
+  "intensity": "none"
+ },
+ "roads": [
+  {
+   "id": "S1",
+   "kind": "street",
+   "pts": [
+    [
+     0,
+     -10
+    ],
+    [
+     0,
+     80
+    ]
+   ],
+   "width": 6.4,
+   "oneWay": false
+  },
+  {
+   "id": "A1",
+   "kind": "alley",
+   "pts": [
+    [
+     0,
+     70
+    ],
+    [
+     100,
+     70
+    ]
+   ],
+   "width": 3.6,
+   "oneWay": true
+  },
+  {
+   "id": "A2",
+   "kind": "alley",
+   "pts": [
+    [
+     30,
+     100
+    ],
+    [
+     30,
+     70
+    ]
+   ],
+   "width": 3.6,
+   "oneWay": false
+  },
+  {
+   "id": "A3",
+   "kind": "alley",
+   "pts": [
+    [
+     30,
+     70
+    ],
+    [
+     30,
+     45
+    ]
+   ],
+   "width": 3.6,
+   "oneWay": false
+  }
+ ],
+ "route": {
+  "directions": [
+   {
+    "follow": "S1"
+   },
+   {
+    "turn": "right",
+    "onto": "A1"
+   },
+   {
+    "arrive": [
+     85,
+     70
+    ]
+   }
+  ],
+  "turns": [
+   {
+    "at": "a1_1",
+    "kind": "right"
+   },
+   {
+    "at": "dest",
+    "kind": "arrive"
+   }
+  ],
+  "destination": [
+   85,
+   70
+  ]
+ },
+ "props": [
+  {
+   "kind": "parked_car",
+   "at": [
+    2.2,
+    30
+   ]
+  },
+  {
+   "kind": "crate_stack",
+   "at": [
+    49.5,
+    71.2
+   ]
+  },
+  {
+   "kind": "bin",
+   "at": [
+    40,
+    71.4
+   ]
+  }
+ ],
+ "decor": [
+  {
+   "kind": "laundry",
+   "at": [
+    20,
+    72.3
+   ]
+  },
+  {
+   "kind": "shrine",
+   "at": [
+    55,
+    72.5
+   ]
+  },
+  {
+   "kind": "banner",
+   "at": {
+    "s": 120,
+    "d": 0
+   }
+  },
+  {
+   "kind": "stall",
+   "at": [
+    62,
+    67.6
+   ]
+  },
+  {
+   "kind": "food_shop",
+   "at": [
+    85,
+    67.2
+   ]
+  },
+  {
+   "kind": "customer",
+   "at": [
+    86,
+    67.4
+   ]
+  },
+  {
+   "kind": "speed_bump",
+   "at": [
+    2.5,
+    55
+   ]
+  }
+ ],
+ "actors": [
+  {
+   "id": "dog1",
+   "type": "dog",
+   "at": [
+    15,
+    71.4
+   ],
+   "to": [
+    15,
+    69.4
+   ],
+   "triggerAt": 92
+  },
+  {
+   "id": "bike_cross",
+   "type": "motorbike",
+   "path": [
+    [
+     30,
+     95
+    ],
+    [
+     30,
+     45
+    ]
+   ],
+   "speed": 4,
+   "triggerAt": 95.7
+  },
+  {
+   "id": "ped_box",
+   "type": "walker",
+   "path": [
+    [
+     48,
+     72.4
+    ],
+    [
+     48,
+     68.9
+    ],
+    [
+     47,
+     72.4
+    ]
+   ],
+   "speed": 1.2,
+   "triggerAt": 123.9
+  },
+  {
+   "id": "cart1",
+   "type": "cart",
+   "path": [
+    [
+     62,
+     69.2
+    ],
+    [
+     72,
+     69.2
+    ],
+    [
+     76,
+     71
+    ],
+    [
+     95,
+     71
+    ]
+   ],
+   "speed": 1.2,
+   "triggerAt": 134,
+   "parkAtEnd": true,
+   "cueDelayS": 0.8
+  },
+  {
+   "id": "recipient",
+   "type": "walker",
+   "path": [
+    [
+     85,
+     67.6
+    ],
+    [
+     85,
+     68.3
+    ]
+   ],
+   "speed": 1.2,
+   "triggerAt": 157
+  }
+ ],
+ "encounters": [
+  {
+   "id": "e01",
+   "type": "car_nose",
+   "section": "Street",
+   "from": 25,
+   "to": 45,
+   "actors": []
+  },
+  {
+   "id": "e02",
+   "type": "bump",
+   "section": "Street",
+   "from": 55,
+   "to": 70,
+   "actors": []
+  },
+  {
+   "id": "e03",
+   "type": "dog",
+   "section": "Alley",
+   "from": 88,
+   "to": 100,
+   "actors": [
+    "dog1"
+   ]
+  },
+  {
+   "id": "e04",
+   "type": "crossing_bike",
+   "section": "Alley",
+   "from": 100,
+   "to": 118,
+   "actors": [
+    "bike_cross"
+   ]
+  },
+  {
+   "id": "e05",
+   "type": "backing_out",
+   "section": "Alley",
+   "from": 120,
+   "to": 134,
+   "actors": [
+    "ped_box"
+   ]
+  },
+  {
+   "id": "e06",
+   "type": "cart_follow",
+   "section": "Alley",
+   "from": 134,
+   "to": 158,
+   "actors": [
+    "cart1"
+   ]
+  },
+  {
+   "id": "e07",
+   "type": "recipient",
+   "section": "Alley",
+   "from": 158,
+   "to": 161,
+   "actors": [
+    "recipient"
+   ]
+  }
+ ]
+}

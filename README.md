@@ -7,3 +7,5 @@ https://dusamavn.github.io/pho-rush/
 - Máy tính: WASD hoặc phím mũi tên.
 
 Đây là bản build tĩnh (đã biên dịch) của chế độ chơi Phở Rush trong StreetSense Adventure. Nguồn tài sản: [credits.html](credits.html).
+
+Bản xem thử phố Hà Nội mới (nhà ống, biển hiệu tiếng Việt, cây phố): https://dusamavn.github.io/pho-rush/hn1/
